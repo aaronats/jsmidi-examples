@@ -5,6 +5,8 @@ without any modifications made. See the instrument list below and the screenshot
 for the levels I used. Also please read the documentation on
 [multi track setup](https://github.com/aaronats/jsmidi/blob/master/docs/LOGIC.md#multitrack).
 
+Here is the [track on SoundCloud](https://soundcloud.com/aaron-strachan-704055056/jsmidi-examples-electronic).
+
 #### Usage
 
 To use this yourself just clone the jsmidi-examples repo, navigate to the `electronic`
